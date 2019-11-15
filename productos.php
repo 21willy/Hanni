@@ -55,11 +55,7 @@
                 <div class="col-md-2"></div>
                 
             </div>
-            <div class="container">
-                <div class="">
-                    
-                </div>
-            </div>
+            
         </div>
         <script>
             
