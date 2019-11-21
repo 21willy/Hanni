@@ -45,8 +45,6 @@
             $precio = 3.99; 
             $precio2 = 6.99;
             $precio3 = 9.99;
-            $precio4 = 2.99;
-            $precio5 = 10.99;
             
         ?>
         <div class="container"> 
@@ -57,10 +55,10 @@
             <!------CUERPO------->
             <div class="cuerpo">
                 <div class="col-md-4" style="text-align: center;">
-                    <img style="width: 90%;" src="imagenes/Valoraciones.jpg" alt=""/>
+                    <img style="width: 90%;" src="imagenes/fundapajitalimpiador.jpg" alt=""/>
                 </div>
                 <div class="col-md-8">
-                    <form action="carrito1.php?precioGuardado=<?php echo $precioGuardado?>" method="post">
+                    <form action="carrito2.php?precioGuardado=<?php echo $precioGuardado?>" method="post">
                         <table cellspacing="1" class="shop_table cart">
                             <thead>
                                 <tr>
@@ -82,13 +80,13 @@
                                         <a href=""><?php $color=$_POST["color"]; echo "".$color;?></a>
                                     </td>
                                     <td class="product-total">
-                                        <a href=""><?php $total = $cantidad*$precio; echo "".$total; echo "€";?></a>
+                                        <a href=""><?php $total = $cantidad*$precio2; echo "".$total; echo "€";?></a>
                                     </td>
                                 </tr>
                             </tbody>
                         </table>
                     </form>
-                    <a href="producto1.php?precioGuardado=<?php echo $precioGuardado?>"><button action="producto1.php?precioGuardado=<?php echo $precioGuardado?>" class="btn btn-group">Página del producto</button></a>
+                    <a href="producto2.php?precioGuardado=<?php echo $precioGuardado?>"><button action="producto2.php?precioGuardado=<?php echo $precioGuardado?>" class="btn btn-group">Página del producto</button></a>
                 </div> 
             </div>
         </div>

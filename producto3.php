@@ -16,19 +16,7 @@
                 h1{
                     border-bottom: 1px solid #000;        
                 }
-            
-            <!--CARROUSEL-->
-                .carousel-inner{
-                  width: 50%;
-                }
-                .carousel-item{
-                    align-content: center;
-                }
-                .carousel-control.left, .carousel-control.right{
-                    background-image: linear-gradient(#fff 0%, #fff 0%)            
-                }
                 
-            
             <!--TABLA-->
                 th{
                     text-align: center;
@@ -65,53 +53,16 @@
             </div>    
             <!------CUERPO------->
             <div id="cuerpo" class="">
-                <!------CARROUSEL------->
-                <div id="myCarousel" class="carousel slide" data-ride="carousel">
-                    <ol class="carousel-indicators">
-                        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                        <li data-target="#myCarousel" data-slide-to="1"></li>
-                        <li data-target="#myCarousel" data-slide-to="2"></li>
-                        <li data-target="#myCarousel" data-slide-to="3"></li>
-                        <li data-target="#myCarousel" data-slide-to="4"></li>
-                        <li data-target="#myCarousel" data-slide-to="5"></li>
-                        <li data-target="#myCarousel" data-slide-to="6"></li>
-                        <li data-target="#myCarousel" data-slide-to="7"></li>
-                    </ol>
-                    <div class="carousel-inner" >
-                        <div class="item active">
-                            <img class="d-block w-100" src="Imagenes/pajita.jpg" alt=""/>
-                        </div>
-                        <div class="item">
-                            <img class="img" src="Imagenes/naranja.jpg" alt=""/>
-                        </div>
-                        <div class="item">
-                            <img class="img" src="Imagenes/amarilla.jpg" alt=""/>
-                        </div>
-                        <div class="item">
-                            <img class="img" src="Imagenes/roja.jpg" alt=""/>
-                        </div>
-                        <div class="item">
-                            <img class="img" src="Imagenes/azul.jpg" alt=""/>
-                        </div>
-                          <div class="item">
-                            <img class="img" src="Imagenes/plata.jpg" alt=""/>
-                        </div>
-                          <div class="item">
-                            <img class="img" src="Imagenes/homografico.jpg" alt=""/>
-                        </div>
-                          <div class="item">
-                            <img class="img" src="Imagenes/negra.jpg" alt=""/>
-                        </div>
-                    </div>
-                    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-                        <i class="glyphicon glyphicon-chevron-left"></i>
-                        <span class="sr-only">Previous</span>
-                    </a>
-                    <a class="right carousel-control" href="#myCarousel" data-slide="next">
-                        <i class="glyphicon glyphicon-chevron-right"></i>
-                        <span class="sr-only">Next</span>
-                    </a>
+                <div class="col-md-4">
+                    
                 </div>
+                <div class="col-md-4">
+                    <img src="Imagenes/fundapajita.jpg" width="400" alt=""/>
+                </div>
+                <div class="col-md-4">
+                    
+                </div>
+                
                 <!--DESCRIPCION/VALORACIONES/DETALLES-->
                 <table cellspacing="1" class="shop_table cart">
                     <thead>
@@ -127,14 +78,24 @@
                     <div id="descripcion" class="">
                         <h1>Descripción</h1>
                         <h4>Especificación:</h4>
-
-                        <p>Material: Acero inoxidable</p>
-
-                        <h4>Tamaño:</h4>
-
-                        <p>Longitud: 19,7 cm, diámetro interior: 5,5mm, diámetro exterior: 6mm</p>
-
-                        <img style="width: 80%;" src="Imagenes/Valoraciones.jpg" alt=""/>
+                        <p>Las pajillas reutilizables son perfectas para tu bar. El paquete perfecto incluye 4 pajitas de Uds., 1 Cepillo de paja y 1 bolsa organizadora.</p>
+                        <p>Cabeza de cubierta de silicona reutilizable y desmontable, fácil de limpiar, seguridad antiarañazos.
+                        Tienen el tamaño perfecto para que quepan en un vaso o en muchas otras copas cortas de cóctel.
+                        Puedes usar estas pajitas una y otra vez en lugar de tirar las de plástico. A prueba de óxido y no se rompe como vaso pajillas.</p>
+                        <br/>
+                        <p>-Nombre del artículo: paja para beber</p>
+                        <p>-Material: acero inoxidable, silicona, fibra de poliéster.</p>
+                        <p>-Características: estilo recto/doblado, reutilizable, cubierta de punta de silicona, cepillo de paja, bolsa organizadora.</p>
+                        <p>-Pincel: 23 cm/9,06 "(aprox.)</p>
+                        <p>-DE PAJA: 21,5 cm x 0,6 cm/8,46 "x 0,24" gruesos pesados doce constelaciones-Capricornio (La cabra) colgantes charms.</p>
+                        <p>-Funda de silicona: 4 cm x 1 cm/1,57 "x 0,39" (aprox.)</p>
+                        <br/>
+                        <p>El paquete incluye:</p>
+                        <p>1 x bolsa organizador</p>
+                        <p>1 x cepillo de limpieza</p>
+                        <p>2 pajitas dobladas</p>
+                        <p>2 x pajitas rectas para beber</p>
+                        
                     </div>
                     <!--VALORACIONES-->
                     <div id="valoraciones" class="hidden">
@@ -143,9 +104,9 @@
                             <tr>
                                 <td>                                     
                                     <div>
-                                        <img src="Imagenes/perfil1.jpg" width="200px" alt=""/>
+                                        <img src="Imagenes/perfil3.jpg" width="200px" alt=""/>
                                         <img style="width: 15%;" src="Imagenes/estrellas.png" alt=""/>
-                                        De momento bien. Imagino que no se oxidarán porque son de acero inoxidable.
+                                        El estuche es muy práctico.
                                     </div>                                  
                                 </td>
                             </tr>
@@ -153,9 +114,9 @@
                             <tr>
                                 <td> 
                                     <div>
-                                        <img src="Imagenes/perfil2.png" width="200px" alt=""/>
+                                        <img src="Imagenes/perfil1.jpg" width="200px" alt=""/>
                                         <img style="width: 15%;" src="Imagenes/estrellas.png" alt=""/>
-                                        No conocía estas pajitas y me han gustado mucho, sobretodo porque son muy ecológicas.                                         
+                                        Es un prodcuto de calidad.                                     
                                     </div>
                                 </td>
                             </tr>
@@ -163,9 +124,9 @@
                             <tr>
                                 <td>
                                     <div>
-                                        <img src="Imagenes/perfil3.jpg" width="200px" alt=""/> 
+                                        <img src="Imagenes/perfil2.png" width="200px" alt=""/> 
                                         <img style="width: 15%;" src="Imagenes/estrellas.png" alt=""/> 
-                                        Esta es una buena solución para reciclar plástico.
+                                        Me parece una idea muy ecologica.
                                     </div>
                                 </td>
                             </tr>                                                                               
@@ -176,21 +137,21 @@
                         <h1>Comprar</h1>
                         <div class="row">
                             <div class="col-md-6" style="text-align: center;">
-                                <img style="width: 80%;" src="imagenes/Valoraciones.jpg" alt=""/>
+                                <img style="width: 80%;" src="imagenes/fundapajita.jpg" alt=""/>
                             </div>
                             <div class="col-md-6">
-                                <form action="carrito1.php?precioGuardado=<?php echo $precioGuardado?>&articulo=Pajita" method="post">
-                                    <h2 name="articulo">Pajita</h2>
-                                    <p>Precio: 3,99€ </p>
+                                <form action="carrito3.php?precioGuardado=<?php echo $precioGuardado?>&articulo=Pajita con funda de colores" method="post">
+                                    <h2 name="articulo">Pajita con funda de colores</h2>
+                                    <p>Precio: 9,99€ </p>
                                     <p>Cantidad: <input type="number" class="" name="cantidad" placeholder="0" min="0" style=" width: 50px;"></p>                                   
                                     <select name="color">
                                         <option name="color" selected="selected">Naranja</option>
-                                        <option name="color" >Amarillo</option>
+                                        <option name="color" >Azul Claro</option>
                                         <option name="color" >Rojo</option>
-                                        <option name="color" >Azul</option>
-                                        <option name="color" >Plata</option>
-                                        <option name="color" >Homolografico</option>
-                                        <option name="color" >Negro</option>
+                                        <option name="color" >Rosa</option>
+                                        <option name="color" >Morado</option>
+                                        <option name="color" >Verde</option>
+                                        <option name="color" >Azul Oscuro</option>
                                     </select>
                                     <button class="btn btn-group">Comprar</button>
                                 </form>

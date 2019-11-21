@@ -57,16 +57,17 @@
             <!------CUERPO------->
             <div class="cuerpo">
                 <div class="col-md-4" style="text-align: center;">
-                    <img style="width: 90%;" src="imagenes/Valoraciones.jpg" alt=""/>
+                    <img style="width: 90%;" src="imagenes/cajadeviaje.jpg" alt=""/>
                 </div>
                 <div class="col-md-8">
-                    <form action="carrito1.php?precioGuardado=<?php echo $precioGuardado?>" method="post">
+                    <form action="carrito5.php?precioGuardado=<?php echo $precioGuardado?>" method="post">
                         <table cellspacing="1" class="shop_table cart">
                             <thead>
                                 <tr>
                                     <th class="product-articulo">Artículo</th>
                                     <th class="product-cantidad">Cantidad</th>
-                                    <th class="product-color">Color</th>
+                                    <th class="product-colorcaja">ColorCaja</th>
+                                    <th class="product-colorpajita">ColorPajita</th>
                                     <th class="product-total">Total</th>
                                 </tr>
                             </thead>
@@ -78,17 +79,20 @@
                                     <td class="product-cantidad">
                                         <a href=""><?php $cantidad=$_POST["cantidad"]; echo "".$cantidad;?></a>
                                     </td>
-                                    <td class="product-color">
-                                        <a href=""><?php $color=$_POST["color"]; echo "".$color;?></a>
+                                    <td class="product-colorcaja">
+                                        <a href=""><?php $colorcaja=$_POST["colorcaja"]; echo "".$colorcaja;?></a>
+                                    </td>
+                                    <td class="product-colorpajita">
+                                        <a href=""><?php $colorpajita=$_POST["colorpajita"]; echo "".$colorpajita;?></a>
                                     </td>
                                     <td class="product-total">
-                                        <a href=""><?php $total = $cantidad*$precio; echo "".$total; echo "€";?></a>
+                                        <a href=""><?php $total = $cantidad*$precio5; echo "".$total; echo "€";?></a>
                                     </td>
                                 </tr>
                             </tbody>
                         </table>
                     </form>
-                    <a href="producto1.php?precioGuardado=<?php echo $precioGuardado?>"><button action="producto1.php?precioGuardado=<?php echo $precioGuardado?>" class="btn btn-group">Página del producto</button></a>
+                    <a href="producto5.php?precioGuardado=<?php echo $precioGuardado?>"><button action="producto5.php?precioGuardado=<?php echo $precioGuardado?>" class="btn btn-group">Página del producto</button></a>
                 </div> 
             </div>
         </div>
