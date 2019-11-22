@@ -82,10 +82,23 @@
                             
                             <tr>
                                 <td> 
-                                    <a href="productos.php">
+                                    <a href="producto1.php">
                                         <div>
-                                            <img src="Imagenes/pajita.jpg" width="200px" alt=""/>
-                                            Descripcion de la pajita
+                                            
+                                            <table>
+                                                <tr>
+                                                    <td>
+                                                        <img src="Imagenes/pajita.jpg" width="200px" alt=""/>
+                                                    </td>
+                                                    
+                                                    <td>
+                                                        Pajita de acero inoxidable de distintos colores, con sistema antidroga.
+                                                        <br>
+                                                        <button class='btn btn-success'> 3'99€ </button>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                           
                                         </div>
                                     </a>
                                     
@@ -94,10 +107,23 @@
                             
                             <tr>
                                 <td> 
-                                    <a href="productos.php">
+                                    <a href="producto2.php">
                                         <div>
-                                            <img src="Imagenes/fundapajitalimpiador.jpg" width="200px" alt=""/>
-                                            Descripcion de la funda con limpiador
+                                            
+                                            <table>
+                                                <tr>
+                                                    <td>
+                                                        <img src="Imagenes/fundapajitalimpiador.jpg" width="200px" alt=""/>
+                                                    </td>
+                                                    
+                                                    <td>
+                                                        Pack de pajita más limpiador y funda.
+                                                        <br>
+                                                        <button class='btn btn-success'> 6'99€ </button>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                           
                                         </div>
                                     </a>
                                 </td>
@@ -105,10 +131,23 @@
                             
                             <tr>
                                 <td> 
-                                    <a href="productos.php">
+                                    <a href="producto3.php">
                                         <div>
-                                            <img src="Imagenes/fundapajita.jpg" width="200px" alt=""/> 
-                                            Descripcion funda
+                                            
+                                            <table>
+                                                <tr>
+                                                    <td>
+                                                        <img src="Imagenes/fundapajita.jpg" width="200px" alt=""/>
+                                                    </td>
+                                                    
+                                                    <td>
+                                                        Funda más pajita con protector de colores.
+                                                        <br>
+                                                        <button class='btn btn-success'> 9'99€ </button>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                           
                                         </div>
                                     </a>
                                 </td>
@@ -116,10 +155,23 @@
                             
                             <tr>
                                 <td>
-                                    <a href="productos.php">
+                                    <a href="producto4.php">
                                         <div>
-                                            <img src="Imagenes/funda.jpg" width="200px" alt=""/>
-                                            descripcion de funda
+                                            
+                                            <table>
+                                                <tr>
+                                                    <td>
+                                                       <img src="Imagenes/funda.jpg" width="200px" alt=""/>
+                                                    </td>
+                                                    
+                                                    <td>
+                                                        Funda para pajita Hanni, no incluye la pajita.
+                                                        <br>
+                                                        <button class='btn btn-success'> 2'99€ </button>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                            
                                         </div>
                                     </a> 
                                 </td>
@@ -127,10 +179,23 @@
                             
                             <tr>
                                 <td> 
-                                    <a href="productos.php">
+                                    <a href="producto5.php">
                                         <div>
-                                            <img src="Imagenes/cajadeviaje.jpg" width="200px" alt=""/>
-                                            descripcion de funda
+                                            
+                                            <table>
+                                                <tr>
+                                                    <td>
+                                                        <img src="Imagenes/cajadeviaje.jpg" width="200px" alt=""/>
+                                                    </td>
+                                                    
+                                                    <td>
+                                                        Doble pack de pajita retractil Hanni más funda y limpiador.
+                                                        <br>
+                                                        <button class='btn btn-success'> 10'99€ </button>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                            
                                         </div>
                                     </a> 
                                 </td>
