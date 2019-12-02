@@ -97,6 +97,7 @@
                                 <iframe width="560" height="315" src="https://www.youtube.com/embed/7IX4t2D0LbU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </div>
                         </div>
+                    </div>
                     <div id="productos" class="hidden">
                         <table class="table table-dark" style="width:100%">
                             
@@ -313,6 +314,8 @@
                 
             </div>
         </div>
+    </div>
+            
         <script>
             
             function inicio(){
