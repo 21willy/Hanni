@@ -255,8 +255,7 @@
                                     <div style="float: right">
                                         <h3>Guillermo Maroto</h3> 
                                         <h4>Marketing Director.</h4>
-                                        <div style="margin-left: 2%">Encargado del departamento de publicidad y encargado de 
-                                    contactar con otras compañias para la cooperacion de actos publicitarios </div>
+                                        <div style="margin-left: 2%">Encargado del departamento de publicidad. </div>
                                     </div>
                                 </div>
                             </div>
