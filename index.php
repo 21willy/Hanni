@@ -243,7 +243,7 @@
                                 </div>
                             </div>
                             <div>
-                                <div style="float: left"><img src="Imagenes/Guillermo.JPG" width="200px" alt="200"/></div>
+                                <div style="float: left"><img src="Imagenes/Guillermo.jpg" width="200px" alt="200"/></div>
                                 <div style="float: right">
                                     <h3>Guillermo Maroto</h3> 
                                     <h4>Marketing Director.</h4>
