@@ -227,47 +227,60 @@
                     <div id="sobreNosotros" class="hidden">
                         <div>
                             <div>
-                                <div style="float: left"><img src="Imagenes/Irene.jpg" width="200px" alt="200"/></div>
-                                <div style="float: right">
-                                    <h3>Irene Benito</h3>
-                                    <h4>CEO.</h4>
-                                    <div style="margin-left: 2%">Creadora del producto Hanni y de la compañia.</div>
-                                </div>
-                            </div>
-                            <div >
-                                <div style="float: left"><img src="Imagenes/Jorge.jpg" width="200px" alt="200"/></div>
-                                <div style="float: right">
-                                    <h3>Jorge Rodríguez</h3> 
-                                    <h4>Director de Departamentos.</h4>
-                                    <div style="margin-left: 2%">Encargado de los departamentos de la empresa. </div>
-                                </div>
-                            </div>
-                            <div>
-                                <div style="float: left"><img src="Imagenes/Guillermo.jpg" width="200px" alt="200"/></div>
-                                <div style="float: right">
-                                    <h3>Guillermo Maroto</h3> 
-                                    <h4>Marketing Director.</h4>
-                                    <div style="margin-left: 2%">Encargado del departamento de publicidad y encargado de 
-                                    contactar con otras compañias para la cooperacion de actos publicitarios</div>
-                                </div>
-                            </div>
-                            <div>
-                                <div style="float: left"><img src="Imagenes/Maria.jpg" width="200px" alt="200"/></div>
-                                <div style="float: right">
-                                    <h3>Maria Arriola</h3> 
-                                    <h4>Community Manager.</h4>
-                                    <div style="margin-left: 2%">Encargada de la página web, Instagram y FaceBook. </div>
-                                </div>
-                            </div>
-                            <div>
-                                <div style="float: left"><img src="Imagenes/Angel.jpeg" width="200px" alt="200"/></div>
-                               <div style="float: right">
-                                    <h3>Angel Jimenez</h3> 
-                                    <h4>Director de Comercio.</h4>
-                                    <div style="margin-left: 2%">Encargado de las compras de materiales.</div>
+                                <div>
+                                    <img src="Imagenes/Irene.jpg" width="200px" alt="200"/>
+                                    <div style="float: right">
+                                        <h3>Irene Benito</h3>
+                                        <h4>CEO.</h4>
+                                        <div style="margin-left: 2%">Creadora del producto Hanni y de la compañia.</div>
+                                    </div>
+                                
                                 </div>
                             </div>
                             
+                            <div >
+                                    <div>
+                                        <img src="Imagenes/Jorge.jpg" width="200px" alt="200"/>
+                                    <div style="float: right">
+                                        <h3>Jorge Rodríguez</h3> 
+                                        <h4>Director de Departamentos.</h4>
+                                        <div style="margin-left: 2%">Encargado de los departamentos de la empresa. </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div >
+                                    <div>
+                                        <img src="Imagenes/Guillermo.jpg" width="200px" alt="200"/>
+                                    <div style="float: right">
+                                        <h3>Guillermo Maroto</h3> 
+                                        <h4>Marketing Director.</h4>
+                                        <div style="margin-left: 2%">Encargado del departamento de publicidad y encargado de 
+                                    contactar con otras compañias para la cooperacion de actos publicitarios </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div >
+                                    <div>
+                                        <img src="Imagenes/Maria.jpg" width="200px" alt="200"/>
+                                    <div style="float: right">
+                                        <h3>Maria Arriola</h3> 
+                                        <h4>Community Manager.</h4>
+                                        <div style="margin-left: 2%">Encargada de la página web, Instagram y FaceBook.</div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div >
+                                    <div>
+                                        <img src="Imagenes/Angel.jpeg" width="200px" alt="200"/>
+                                    <div style="float: right">
+                                        <h3>Angel Jimenez</h3> 
+                                        <h4>Director de Comercio.</h4>
+                                        <div style="margin-left: 2%">Encargado de las compras de materiales.</div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <div id="contacto" class="hidden">
