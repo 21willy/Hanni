@@ -28,7 +28,6 @@
             button:hover {
               opacity: 0.8;
             }
-
             a{
                 color: black;
             }
@@ -75,8 +74,29 @@
 
                 <div class="col-md-8">
                     <div id="inicio">
-                        Inicio
-                    </div>
+                        <div class="col-md-20" align="center">
+                            <div id="inicio2" >
+                                <u><font size="7">Inicio</font></u>
+                            </div>
+                            
+                            <div id="explicacion" >
+                                <p style="font-size: 18px;">
+                                    Hanni S.A. es una empresa que se dedica a fabricar pajitas compuestas de acero inoxidable.
+                                </p>
+                                <p style="font-size: 18px;">
+                                    La singularidad de estas pajitas son que al estar fabricadas con acero inoxidable es que pueden ser reutilizadas y así consumir menos plástico.
+                                </p>
+                                <p style="font-size: 18px;">
+                                    Además hemos adherido un producto el cual al entrar en contacto con la bebida es capaz de detectar si hay algún tipo de sustancia estupefaciente en dicha bebida,
+                                    de momento solo se usa como esmalte de uñas por ello somos pioneros en incluirlos en nuestras pajitas.
+                                </p>
+                                <p style="font-size: 18px;">
+                                    A continuación les dejamos un video explicativo que demuestra la función de dicho producto capaz de detectarlo.
+                                </p>
+                                
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/7IX4t2D0LbU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                        </div>
                     <div id="productos" class="hidden">
                         <table class="table table-dark" style="width:100%">
                             
@@ -204,7 +224,50 @@
                         </table>
                     </div>
                     <div id="sobreNosotros" class="hidden">
-                        Sobre Nosotros
+                        <div>
+                            <div>
+                                <div style="float: left"><img src="Imagenes/Irene.jpg" width="200px" alt="200"/></div>
+                                <div style="float: right">
+                                    <h3>Irene Benito</h3>
+                                    <h4>CEO.</h4>
+                                    <div style="margin-left: 2%">Creadora del producto Hanni y de la compañia.</div>
+                                </div>
+                            </div>
+                            <div >
+                                <div style="float: left"><img src="Imagenes/Jorge.jpg" width="200px" alt="200"/></div>
+                                <div style="float: right">
+                                    <h3>Jorge Rodríguez</h3> 
+                                    <h4>Director de Departamentos.</h4>
+                                    <div style="margin-left: 2%">Encargado de los departamentos de la empresa. </div>
+                                </div>
+                            </div>
+                            <div>
+                                <div style="float: left"><img src="Imagenes/Guillermo.JPG" width="200px" alt="200"/></div>
+                                <div style="float: right">
+                                    <h3>Guillermo Maroto</h3> 
+                                    <h4>Marketing Director.</h4>
+                                    <div style="margin-left: 2%">Encargado del departamento de publicidad y encargado de 
+                                    contactar con otras compañias para la cooperacion de actos publicitarios</div>
+                                </div>
+                            </div>
+                            <div>
+                                <div style="float: left"><img src="Imagenes/Maria.jpg" width="200px" alt="200"/></div>
+                                <div style="float: right">
+                                    <h3>Maria Arriola</h3> 
+                                    <h4>Community Manager.</h4>
+                                    <div style="margin-left: 2%">Encargada de la página web, Instagram y FaceBook. </div>
+                                </div>
+                            </div>
+                            <div>
+                                <div style="float: left"><img src="Imagenes/Angel.jpeg" width="200px" alt="200"/></div>
+                               <div style="float: right">
+                                    <h3>Angel Jimenez</h3> 
+                                    <h4>Director de Comercio.</h4>
+                                    <div style="margin-left: 2%">Encargado de las compras de materiales.</div>
+                                </div>
+                            </div>
+                            
+                        </div>
                     </div>
                     <div id="contacto" class="hidden">
                     
